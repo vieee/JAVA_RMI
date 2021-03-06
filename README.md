@@ -41,5 +41,8 @@ $ java Client localhost add 12 25 "Christmas"
 $ java Client localhost query 12 25
 ```
 
+Now, open a new terminal and enter command for displaying all event list. **Remember** to navigate to `/bin` folder.
+
+Display Operation: `java HistoryProvider`
 
 **Note:** You can run Server and Client on different machines.

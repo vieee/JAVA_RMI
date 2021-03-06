@@ -3,7 +3,7 @@ import java.rmi.registry.Registry;
 import java.rmi.server.UnicastRemoteObject;
 
 /**
- * Created By Sagun Pandey
+ * Created By vieee
  */
 public class Server {
 

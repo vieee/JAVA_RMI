@@ -6,7 +6,7 @@ import java.rmi.registry.Registry;
 import java.util.List;
 
 /**
- * Created By Sagun Pandey
+ * Created By vieee
  */
 public class Client {
 

@@ -2,7 +2,7 @@ import java.rmi.RemoteException;
 import java.util.List;
 
 /**
- * Created By Sagun Pandey
+ * Created By vieee
  */
 public class EventServerImpl implements EventServer {
 

@@ -1,9 +1,14 @@
 import java.io.Serializable;
 
 /**
- * Created By Sagun Pandey
+ * Created By vieee
  */
 public class Event implements Serializable {
+
+    /**
+     *
+     */
+    private static final long serialVersionUID = 1L;
 
     private int month;
 

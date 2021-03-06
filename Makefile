@@ -2,7 +2,7 @@
 
 # Java compiler
 JAVAC = javac
-JVM = 1.8
+JVM = 11
 
 # Directory for compiled binaries
 BIN = ./bin/

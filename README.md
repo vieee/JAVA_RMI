@@ -45,4 +45,8 @@ Now, open a new terminal and enter command for displaying all event list. **Reme
 
 Display Operation: `java HistoryProvider`
 
+```
+$ java HistoryProvider
+```
+
 **Note:** You can run Server and Client on different machines.
